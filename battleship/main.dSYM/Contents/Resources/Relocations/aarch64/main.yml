@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/bowencheng/Projects/small_cpp_projects/battleship/main'
+relocations:     []
+...
