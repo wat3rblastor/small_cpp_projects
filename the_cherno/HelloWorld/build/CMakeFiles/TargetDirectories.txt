@@ -1,0 +1,3 @@
+/Users/bowencheng/Projects/small_cpp_projects/the_cherno/HelloWorld/build/CMakeFiles/helloworld.dir
+/Users/bowencheng/Projects/small_cpp_projects/the_cherno/HelloWorld/build/CMakeFiles/edit_cache.dir
+/Users/bowencheng/Projects/small_cpp_projects/the_cherno/HelloWorld/build/CMakeFiles/rebuild_cache.dir
